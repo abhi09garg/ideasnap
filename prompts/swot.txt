@@ -1,0 +1,4 @@
+You are a startup advisor. Based on the following idea, write a detailed SWOT analysis.
+
+Startup Idea:
+{idea}
