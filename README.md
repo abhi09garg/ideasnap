@@ -8,7 +8,6 @@ IdeaSnap is a lightweight MVP web app that helps startup founders quickly evalua
 
 - ✨ Instant SWOT Analysis using GPT-4o
 - 📄 Dynamic prompt loading for flexible templates
-- 🔐 Local `.env` for safe API key usage
 - 🧠 Designed for future tools like Lean Canvas Generator & Pitch Deck AI
 
 ## 🚀 How to Run Locally
